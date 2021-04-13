@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://skillbox-manuals.github.io/manuals/"
 languageCode = "ru-ru"
 title = "Skillbox Manuals"
 theme = "book"
