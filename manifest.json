@@ -1,14 +1,14 @@
 {
   "name": "Skillbox Manuals",
   "short_name": "Skillbox Manuals",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/manuals/",
+  "scope": "/manuals/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/manuals/favicon.svg",
       "sizes": "512x512"
     }
   ]
