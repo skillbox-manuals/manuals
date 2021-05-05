@@ -14,7 +14,7 @@ date: 2021-04-13T21:36:06+05:00
 
 Скачиваем Windows Installer с официального сайта по этой ссылке:
 
-[https://dev.mysql.com/downloads/windows/installer/8.0.html](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+[https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
 
 Убедитесь что выбрана `macOS` в списке операционных систем и нажмите кнопку `Download` у версии с большим размером. Это версия содержит все компоненты для установки.
 
