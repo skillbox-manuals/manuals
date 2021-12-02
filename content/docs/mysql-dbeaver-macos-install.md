@@ -1,6 +1,7 @@
 ---
 title: "Установка MySQL 8.0 + Dbeaver на macOS"
 date: 2021-04-13T21:36:06+05:00
+weight: 2
 ---
 # Установка MySQL - macOS (dmg) + Dbeaver
 

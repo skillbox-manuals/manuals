@@ -1,6 +1,7 @@
 ---
 title: "Установка MySQL на Linux"
 date: 2021-04-13T21:36:06+05:00
+weight: 3
 ---
 # Установка MySQL на Linux
 
