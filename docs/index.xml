@@ -20,4 +20,8 @@ Pacman Обновите список пакетов</description></item><item><t
 Если у вас ошибки и команда java не найдена, а JAVA_HOME ничего не выводит.</description></item><item><title>Maven установка в Ubuntu</title><link>https://skillbox-manuals.github.io/manuals/docs/maven-linux-install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skillbox-manuals.github.io/manuals/docs/maven-linux-install/</guid><description>В данной статье вы найдете инструкцию как установить Maven с помощью сервиса SDKMAN!
 Требования # Предварительно у вас должен быть установлен JDK версии не ниже 8. Проверьте в терминале командой java --version. На скриншоте пример вывода, который удовлетворяет дальнейшим действиям.
 Maven написан на Java, поэтому без JDK работать не будет.
-Если у вас ошибка и команда java не найдена - это не проблема. Все установим с помощью утилиты SDKman!</description></item></channel></rss>
+Если у вас ошибка и команда java не найдена - это не проблема. Все установим с помощью утилиты SDKman!</description></item><item><title>Maven установка в macOs</title><link>https://skillbox-manuals.github.io/manuals/docs/maven-macos-install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://skillbox-manuals.github.io/manuals/docs/maven-macos-install/</guid><description>В данной статье вы найдете инструкцию как установить Maven с помощью сервиса SDKMAN!
+ℹ️ Инструкция подходит для компьютеров Mac с процессорами Intel, M1, M2.
+Требования # Предварительно у вас должен быть установлен JDK версии не ниже 8. Проверьте в терминале командой java --version. На скриншоте пример вывода, который удовлетворяет дальнейшим действиям.
+Maven написан на Java, поэтому без JDK работать не будет.
+Если у вас ошибка и команда java не найдена - это не проблема.</description></item></channel></rss>
